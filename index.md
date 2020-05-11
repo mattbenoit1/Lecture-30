@@ -19,16 +19,12 @@ body {
 </style>
 
 <body>
-<HEAD>HI</HEAD>
 	<header>
 		<nav id="header-nav" class="navbar navbar-default">
 			<div class="container">				
 			</div>
 		</nav>
 	</header>
-
-
-
 
 
 	<!-- jQuery (Bootstrap JS plugins depend on it) -->
